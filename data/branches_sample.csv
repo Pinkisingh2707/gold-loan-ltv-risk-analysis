@@ -1,0 +1,37 @@
+branch_id,branch_name,city,state,region,opened_on
+BR001,Chennai Main Road,Chennai,Tamil Nadu,South,2018-11-09
+BR002,Chennai Nagar,Chennai,Tamil Nadu,South,2019-08-16
+BR003,Chennai Main Road,Chennai,Tamil Nadu,South,2019-11-25
+BR004,Chennai Nagar,Chennai,Tamil Nadu,South,2019-08-06
+BR005,Coimbatore Nagar,Coimbatore,Tamil Nadu,South,2022-04-10
+BR006,Coimbatore Main Road,Coimbatore,Tamil Nadu,South,2018-03-22
+BR007,Madurai Bus Stand,Madurai,Tamil Nadu,South,2016-02-26
+BR008,Madurai Gandhi Road,Madurai,Tamil Nadu,South,2017-11-19
+BR009,Salem Main Road,Salem,Tamil Nadu,South,2022-10-06
+BR010,Hyderabad Station Road,Hyderabad,Telangana,South,2022-05-19
+BR011,Hyderabad Bazaar,Hyderabad,Telangana,South,2020-11-26
+BR012,Hyderabad Station Road,Hyderabad,Telangana,South,2018-03-08
+BR013,Warangal Nagar,Warangal,Telangana,South,2023-01-26
+BR014,Bengaluru Bazaar,Bengaluru,Karnataka,South,2020-07-12
+BR015,Bengaluru Station Road,Bangalore,Karnataka,South,2022-01-16
+BR016,Bengaluru Bazaar,Bengaluru,Karnataka,South,2016-02-26
+BR017,Mysuru Main Road,Mysuru,Karnataka,South,2018-09-03
+BR018,Kochi Station Road,Kochi,Kerala,South,2018-02-26
+BR019,Kochi Bazaar,Kochi,Kerala,South,2019-08-15
+BR020,Thrissur Market,Thrissur,Kerala,South,2016-03-17
+BR021,Thrissur Junction,Thrissur,Kerala,South,2019-07-15
+BR022,Kozhikode Bazaar,Kozhikode,Kerala,South,2021-05-13
+BR023,Vijayawada Bus Stand,Vijayawada,Andhra Pradesh,South,2019-09-15
+BR024,Guntur Junction,Guntur,Andhra Pradesh,South,2017-03-02
+BR025,Pune Main Road,Pune,Maharashtra,West,2017-07-20
+BR026,Pune Nagar,Pune,Maharashtra,West,2017-05-03
+BR027,Mumbai Gandhi Road,Mumbai,Maharashtra,West,2022-04-14
+BR028,Mumbai Bus Stand,Mumbai,Maharashtra,West,2019-12-28
+BR029,Ahmedabad Nagar,Ahmedabad,Gujarat,West,2020-10-24
+BR030,Ahmedabad Main Road,Ahmedabad,Gujarat,West,2016-05-20
+BR031,Surat Bus Stand,Surat,Gujarat,West,2017-03-30
+BR032,New Delhi Junction,New Delhi,Delhi,North,2022-04-28
+BR033,New Delhi Market,New Delhi,Delhi,North,2020-01-05
+BR034,Gurugram Station Road,Gurgaon,Haryana,North,2020-02-13
+BR035,Jaipur Gandhi Road,Jaipur,Rajasthan,North,2022-04-03
+BR036,Lucknow Market,Lucknow,Uttar Pradesh,North,2021-01-01

@@ -1,0 +1,101 @@
+customer_id,age,occupation,city,state,kyc_document,customer_since
+C000001,52,Small business owner,Mumbai,Maharashtra,Aadhaar,2014-01-01
+C000002,70,Farmer,Mumbai,Maharashtra,PAN,2015-07-22
+C000003,42,Small business owner,Pune,Maharashtra,Passport,2025-08-11
+C000004,53,Small business owner,Gurugram,Haryana,Aadhaar,2024-07-21
+C000005,59,Homemaker,Hyderabad,Telangana,Aadhaar,2024-06-16
+C000006,23,Salaried - private,Chennai,Tamil Nadu,Aadhaar,2025-04-03
+C000007,23,Salaried - private,Pune,Maharashtra,PAN,2016-02-07
+C000008,61,Self-employed professional,Chennai,Tamil Nadu,Passport,2019-12-24
+C000009,36,Farmer,Hyderabad,Telangana,Passport,2013-02-11
+C000010,44,Farmer,Bengaluru,Karnataka,Voter ID,2018-04-08
+C000011,41,Small business owner,Kochi,Kerala,PAN,2022-11-13
+C000012,28,Farmer,Chennai,Tamil Nadu,Aadhaar,2020-11-06
+C000013,46,Small business owner,Chennai,Tamil Nadu,Voter ID,2015-12-01
+C000014,38,Farmer,Kochi,Kerala,PAN,2023-02-16
+C000015,26,Farmer,Hyderabad,Telangana,Aadhaar,2017-04-26
+C000016,61,Salaried - government,Kozhikode,Kerala,Voter ID,2023-08-22
+C000017,59,Farmer,Kochi,Kerala,Aadhaar,2023-10-15
+C000018,68,Salaried - private,Kozhikode,Kerala,Aadhaar,2020-06-24
+C000019,71,Small business owner,Warangal,Telangana,PAN,2025-09-01
+C000020,40,Homemaker,Kochi,Kerala,PAN,2023-08-11
+C000021,34,Salaried - private,Chennai,Tamil Nadu,Aadhaar,2017-01-03
+C000022,66,Self-employed professional,Chennai,Tamil Nadu,Aadhaar,2023-02-11
+C000023,30,Salaried - private,Mumbai,Maharashtra,Aadhaar,2020-04-27
+C000024,50,Homemaker,Mumbai,Maharashtra,Aadhaar,2025-06-25
+C000025,40,Salaried - private,Bengaluru,Karnataka,PAN,2017-05-15
+C000026,41,Small business owner,Kochi,Kerala,Aadhaar,2019-01-15
+C000027,47,Farmer,Coimbatore,Tamil Nadu,Aadhaar,2013-11-27
+C000028,49,Small business owner,Coimbatore,Tamil Nadu,Aadhaar,2015-03-12
+C000029,40,Farmer,Coimbatore,Tamil Nadu,Aadhaar,2020-03-01
+C000030,34,Homemaker,Hyderabad,Telangana,Aadhaar,2019-11-22
+C000031,42,Small business owner,Bengaluru,Karnataka,PAN,2025-05-06
+C000032,52,Self-employed professional,Madurai,Tamil Nadu,Aadhaar,2015-07-05
+C000033,34,Farmer,Chennai,Tamil Nadu,Aadhaar,2019-06-07
+C000034,29,Self-employed professional,Mysuru,Karnataka,Passport,2012-11-30
+C000035,69,Farmer,Thrissur,Kerala,Aadhaar,2022-01-30
+C000036,64,Farmer,Chennai,Tamil Nadu,PAN,2012-06-02
+C000037,51,Small business owner,Warangal,Telangana,Passport,2020-02-17
+C000038,42,Farmer,Vijayawada,Andhra Pradesh,Voter ID,2017-08-04
+C000039,42,Salaried - private,Hyderabad,Telangana,Passport,2023-05-11
+C000040,21,Self-employed professional,Jaipur,Rajasthan,PAN,2015-12-26
+C000041,47,Salaried - private,Surat,Gujarat,Aadhaar,2016-05-17
+C000042,28,Salaried - government,Jaipur,Rajasthan,Aadhaar,2025-07-02
+C000043,22,Salaried - private,Jaipur,Rajasthan,Voter ID,2012-02-10
+C000044,36,Salaried - private,Ahmedabad,Gujarat,Passport,2023-06-04
+C000045,25,Salaried - private,Mysuru,Karnataka,Passport,2013-04-01
+C000046,26,Farmer,Hyderabad,Telangana,Aadhaar,2014-08-10
+C000047,44,Homemaker,Kochi,Kerala,Voter ID,2018-01-26
+C000048,24,Small business owner,Mumbai,Maharashtra,Voter ID,2012-08-20
+C000049,24,Farmer,Mysuru,Karnataka,Aadhaar,2012-05-27
+C000050,42,Salaried - private,Mysuru,Karnataka,Voter ID,2016-03-01
+C000051,23,Homemaker,Mumbai,Maharashtra,Voter ID,2025-03-06
+C000052,30,Farmer,New Delhi,Delhi,Passport,2017-08-22
+C000053,43,Farmer,Kochi,Kerala,Voter ID,2019-06-06
+C000054,54,Homemaker,Jaipur,Rajasthan,Aadhaar,2016-09-26
+C000055,30,Homemaker,Kozhikode,Kerala,Aadhaar,2012-03-19
+C000056,61,Salaried - private,Coimbatore,Tamil Nadu,Voter ID,2024-02-24
+C000057,22,Farmer,Madurai,Tamil Nadu,PAN,2022-11-24
+C000058,48,Salaried - government,Kochi,Kerala,Voter ID,2023-12-07
+C000059,24,Farmer,New Delhi,Delhi,Voter ID,2016-10-20
+C000060,58,Homemaker,Guntur,Andhra Pradesh,Aadhaar,2024-10-14
+C000061,55,Self-employed professional,Kozhikode,Kerala,Passport,2015-10-13
+C000062,29,Salaried - private,Pune,Maharashtra,PAN,2024-10-31
+C000063,28,Farmer,Vijayawada,Andhra Pradesh,Aadhaar,2018-02-28
+C000064,66,Salaried - private,Hyderabad,Telangana,Voter ID,2013-12-04
+C000065,65,Trader,Ahmedabad,Gujarat,Aadhaar,2015-02-17
+C000066,42,Salaried - private,Mysuru,Karnataka,Aadhaar,2013-08-27
+C000067,72,Salaried - private,Coimbatore,Tamil Nadu,Aadhaar,2013-05-15
+C000068,51,Small business owner,Jaipur,Rajasthan,Passport,2016-12-14
+C000069,45,Salaried - government,Thrissur,Kerala,Aadhaar,2013-08-21
+C000070,67,Farmer,Lucknow,Uttar Pradesh,Aadhaar,2023-10-08
+C000071,33,Self-employed professional,Vijayawada,Andhra Pradesh,Aadhaar,2024-02-18
+C000072,71,Homemaker,Thrissur,Kerala,Aadhaar,2019-01-11
+C000073,65,Small business owner,Madurai,Tamil Nadu,Passport,2017-07-01
+C000074,46,Small business owner,Bengaluru,Karnataka,Aadhaar,2025-01-03
+C000075,49,Farmer,Coimbatore,Tamil Nadu,Aadhaar,2013-04-12
+C000076,42,Small business owner,Jaipur,Rajasthan,PAN,2019-04-29
+C000077,21,Small business owner,Madurai,Tamil Nadu,Aadhaar,2018-09-04
+C000078,49,Farmer,Coimbatore,Tamil Nadu,Aadhaar,2024-05-19
+C000079,27,Farmer,Hyderabad,Telangana,Passport,2019-08-10
+C000080,43,Salaried - private,Hyderabad,Telangana,Aadhaar,2021-05-23
+C000081,52,Small business owner,Coimbatore,Tamil Nadu,Passport,2017-08-23
+C000082,59,Self-employed professional,Mumbai,Maharashtra,Aadhaar,2021-03-25
+C000083,30,Self-employed professional,Vijayawada,Andhra Pradesh,Aadhaar,2016-06-14
+C000084,65,Farmer,Chennai,Tamil Nadu,Aadhaar,2019-10-29
+C000085,29,Small business owner,Surat,Gujarat,PAN,2017-07-09
+C000086,54,Homemaker,Chennai,Tamil Nadu,Aadhaar,2022-02-11
+C000087,63,Salaried - private,Thrissur,Kerala,Aadhaar,2023-03-29
+C000088,37,Self-employed professional,Mumbai,Maharashtra,Aadhaar,2014-07-22
+C000089,21,Salaried - private,Pune,Maharashtra,PAN,2018-01-29
+C000090,55,Farmer,Mumbai,Maharashtra,Passport,2020-04-08
+C000091,38,Small business owner,Lucknow,Uttar Pradesh,Passport,2013-07-15
+C000092,27,Farmer,Madurai,Tamil Nadu,Aadhaar,2021-04-30
+C000093,67,Homemaker,Bengaluru,Karnataka,Passport,2021-07-12
+C000094,59,Small business owner,Kozhikode,Kerala,Voter ID,2018-05-19
+C000095,44,Trader,Pune,Maharashtra,Voter ID,2015-06-12
+C000096,52,Trader,Chennai,Tamil Nadu,Aadhaar,2019-03-22
+C000097,28,Farmer,Vijayawada,Andhra Pradesh,Passport,2020-09-06
+C000098,59,Self-employed professional,New Delhi,Delhi,Aadhaar,2016-07-24
+C000099,28,Salaried - private,Vijayawada,Andhra Pradesh,PAN,2013-06-27
+C000100,42,Self-employed professional,Chennai,Tamil Nadu,Aadhaar,2013-03-01

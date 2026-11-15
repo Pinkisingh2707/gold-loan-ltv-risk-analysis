@@ -6,7 +6,7 @@ Gold prices have fallen sharply. Find which active gold loans now breach the reg
 
 > A live industry project on [JobPrax](https://www.jobprax.com). The client, Suvarna Finance Ltd, and its data are simulated.
 
-> **Status: in progress.** 13 of 50 tasks solved as of 12 Nov 2026. The final report will be added when the project is complete.
+> **Status: in progress.** 13 of 50 tasks solved as of 15 Nov 2026. The final report will be added when the project is complete.
 
 ## Business problem
 
